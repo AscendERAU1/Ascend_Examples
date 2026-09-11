@@ -100,8 +100,7 @@ int manipulations(int num1, char op, int num2)
     return num3;
 }
 
-int main()
-{
+int main(){
 
     // int is a number
     int counter = 0;
